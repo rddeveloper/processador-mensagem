@@ -1,7 +1,7 @@
 # Processador de Mensagens
 
 Projeto criado utilizando o java e o apache kafka, cujo o objetivo é simular um consumer de processamento de mensagens.\
-obs:primeiro execute e rode o projeto [envio-mensagem](https://github.com/rddeveloper/envio-mensagem), assim garantido que os dados estejam sendo produzidos, podendo ser consumidos pela aplicação de processamento de mensagens.
+obs:bprimeiro execute e rode o projeto [envio-mensagem](https://github.com/rddeveloper/envio-mensagem), assim garantido que os dados esteja sendo produzidos, podendo ser consumidos pela aplicação de processamento de mensagens através do tópico de mensagem-envio e que os containers do zookeper e o kafka através do docker estejam rodando na sua máquina.
 
 # Tecnologias
 
