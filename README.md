@@ -1,6 +1,6 @@
 # Processador de Mensagens
 
-Projeto criado utilizando o java e o apache kafka, cujo o objetivo é simular um consumer de processamento de mensagens.
+Projeto criado utilizando o java e o apache kafka, cujo o objetivo é simular um consumer de processamento de mensagens.\
 obs:primeiro execute e rode o projeto [envio-mensagem](https://github.com/rddeveloper/envio-mensagem), assim garantido que os dados estejam sendo produzidos, podendo ser consumidos pela aplicação de processamento de mensagens.
 
 # Tecnologias
